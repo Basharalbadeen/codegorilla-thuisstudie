@@ -1,1 +1,2 @@
 dit is om te kijken of het werkt
+Dit is een test of aanpassingen gezien worden door github desktop
